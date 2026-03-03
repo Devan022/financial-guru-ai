@@ -172,6 +172,7 @@ def dashboard_page():
         response = client.models.generate_content(
             model="gemini-3-flash-preview", contents=[prompt, [str(uploaded_file)]]
         )
+        # Core financial scoring logic based on user inputs
         try:
             data = json.loads(str(response.text))
         except json.JSONDecodeError:
