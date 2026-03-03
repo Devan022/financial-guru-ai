@@ -1,0 +1,10 @@
+[[pages]]
+path = "app.py"
+name = "Home"
+icon = "🏠"
+
+[[pages]]
+path = "other_pages/page2.py"
+name = "Page 2"
+icon = ":books:"
+url_path = "my_books" 
