@@ -1,3 +1,4 @@
+# Dashboard rendering and visualization section
 import streamlit as st
 
 st.title("Survey")
