@@ -1,6 +1,7 @@
 # 💰 Financial Guru – AI Financial Scoring Platform
 
 ## 📌 Overview
+Built during Aurora Hackathon 2026 under time constraints.
 Financial Guru is an AI-powered financial evaluation web application developed during the Aurora Hackathon. It generates a financial score (1–100) based on career progress, achievements, and future financial goals.
 
 ## 🚀 Key Features
